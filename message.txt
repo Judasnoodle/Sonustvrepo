@@ -1,3 +1,4 @@
 1 
 ||| 
-Type your message here
+Hello From Sonus Tv
+This is a test notification
