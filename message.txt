@@ -1,10 +1,21 @@
-9
+10
 ||| 
 Hello From Sonus Tv
-This is the new Sonus TV Notification App. In the Future there will be important information on updates etc
+This is the new Sonus TV Notification Addon. In the Future there will be important information on updates etc
 Make sure you Like the Sonus Tv Facebook page https://www.facebook.com/sonusbuilds/ 
 Email sonusbuild@gmail.com
-If your seeing this message you have the latest update as of 2017-07-16
 
-Click dismiss to close notification!
+Latest Sonus tv Update:2017-07-19
+-Added "Sonus Info" in submenu under "Programs" (Click to check for latest updates etc)
+-Added "weather"in system Submenu
+
+How to update:
+From Main Android screen click Settings>Apps>SonusTv>clearData> Click home button on Remote
+Open Sonus Tv Again and click "start" to download latest version
+Once complete, click "ok" then "ok" again and click home button on your remote and restart Box by unplugging or turning off.
+Open Sonus Tv and let sit a few min to let auto updates come through.
+
+Thanks for Choosing Sonus Tv!
+
+
 
