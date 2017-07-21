@@ -6,9 +6,9 @@ Make sure you Like the Sonus Tv Facebook page https://www.facebook.com/sonusbuil
 Join the Sonus tv Support page https://www.facebook.com/groups/347581645626718/
 You can also Email at sonusbuild@gmail.com
 
-Latest Sonus tv Update:2017-07-19
+Latest Sonus tv Update:2017-07-20
 -Added "Sonus Info" in submenu under "Programs" (Click to check for latest updates etc)
--Added "weather"in system Submenu
+-Added "Local forcast" above programs menu
 
 Thanks for Choosing Sonus Tv!
 
