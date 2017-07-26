@@ -1,15 +1,15 @@
-13
+14
 ||| 
-Hello From Sonus Tv
-This is the new Sonus TV Notification Addon. In the Future there will be important information on updates etc
-Make sure you Like the Sonus Tv Facebook page https://www.facebook.com/sonusbuilds/ 
-Join the Sonus tv Support page https://www.facebook.com/groups/347581645626718/
-You can also Email at sonusbuild@gmail.com
+Latest Sonus tv Update:2017-07-26
+-Removed dead or unreliable addons (Players klub, Picasso,Wolfpack...)
+-Added "Kong kids" fixed "Vortex", kids new releases, added new releases in movies section
+-General Code cleanup
+-Removed Exodus ( Will Work for the time being on older updates but is no longer being updated or supported)
 
-Latest Sonus tv Update:2017-07-20
--Added "Sonus Info" in submenu under "Programs" (Click to check for latest updates etc)
--Added "Local forcast" above programs menu
-
+Latest HD movie releases In Skynet "New Releases":
+-Diary of a whimpy Kid: The Long Haul
+-Kidnap
+-Snached
 Thanks for Choosing Sonus Tv!
 
 
