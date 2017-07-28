@@ -1,8 +1,8 @@
 15
 ||| 
 Latest Sonus tv Update:2017-07-26
--Removed dead or unreliable addons (Players klub, Picasso,Wolfpack...)
--Added "Kong kids" fixed "Vortex", kids new releases, added new releases in movies section
+-Removed dead or unreliable addons (Players klub ( Free service not available), Picasso,Wolfpack...)
+-Added "Kong kids" fixed- "Vortex", "kids new releases", added "new releases" in movies section
 -General Code cleanup
 -Added Live Concerts In the Music section
 -Removed Exodus ( Will Work for the time being on older updates but is no longer being updated or supported)
@@ -10,7 +10,7 @@ Latest Sonus tv Update:2017-07-26
 Latest HD movie releases In Skynet "New Releases":
 -Diary of a whimpy Kid: The Long Haul
 -Kidnap
--Snached
+-Snatched
 Thanks for Choosing Sonus Tv!
 
 
