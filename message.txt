@@ -1,4 +1,4 @@
-15
+16
 ||| 
 Latest Sonus tv Update: 2017-07-26
 
@@ -6,7 +6,10 @@ Latest Sonus tv Update: 2017-07-26
 - Main Movies search link section (Elysium) Is currently down. 
 - Use Covenant Movies Or Posidion Movies untill Elysium is Auto updated
 
+For the Latest Info Click on "Sonus Info" in the Programs sub menu
+
 Latest HD movie releases In Skynet "New Releases":
+-The Wall
 -Diary of a whimpy Kid: The Long Haul
 -Kidnap
 -Snatched
