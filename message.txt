@@ -1,12 +1,14 @@
-16
+17
 ||| 
-Latest Sonus tv Update: 2017-07-26
+Latest Sonus tv Update: 2017-08-04
 
-2017-08-03
-- Main Movies search link section (Elysium) Is currently down. 
-- Use Covenant Movies Or Posidion Movies untill Elysium is Auto updated
+-Couldnt wait for Elysium to be Fixed in an auto update, so I went ahead and fixed it myself.
 
-For the Latest Info Click on "Sonus Info" in the Programs sub menu
+-This isn't a necessary update but, if you want to use The MAIN "Movies" section or Elysium Tv then I suggest you do so.
+
+-Also removed the Pair links from Elysium and Added fisherman's Cove RELOADED to Extras!
+
+-For the Latest Info Click on "Sonus Info" in the Programs sub menu
 
 Latest HD movie releases In Skynet "New Releases":
 -The Wall
