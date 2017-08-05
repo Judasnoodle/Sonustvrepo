@@ -1,8 +1,7 @@
-18
+19
 ||| 
 Latest Sonus tv Update: 2017-08-04
--Couldnt wait for Elysium to be Fixed in an auto update, so I went ahead and fixed it myself.
--This isn't a necessary update but, if you want to use The MAIN "Movies" section or Elysium Tv then I suggest you do so.
+-Couldnt wait for Elysium to be Fixed in an auto update, so I went ahead and fixed The "MOVIES" link it myself.
 -Also removed the Pair links from Elysium and Added fisherman's Cove RELOADED to Extras!
 -Game of Thrones (leaked) Ep4 Available in new releases>Skynet>MaverickTv>Maverick new releases 2017
 -For the Latest Info Click on "Sonus Info" in the Programs sub menu
