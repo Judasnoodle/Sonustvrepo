@@ -1,15 +1,15 @@
-19
+20
 ||| 
-Latest Sonus tv Update: 2017-08-04
--Couldnt wait for Elysium to be Fixed in an auto update, so I went ahead and fixed The "MOVIES" link myself.
--Also removed the Pair links from Elysium and Added fisherman's Cove RELOADED to Extras!
--Game of Thrones (leaked) Ep4 Available in new releases>Skynet>MaverickTv>Maverick new releases 2017
--For the Latest Info Click on "Sonus Info" in the Programs sub menu
-Latest HD movie releases In Skynet "New Releases":
--The Wall
--Diary of a whimpy Kid: The Long Haul
--Kidnap
--Snatched
+Latest Sonus tv Update: 2017-08-04 (If you havent updated on this date or after the MOVIE main search links will not work)
+-Movies Main Link section Updated, search functions all working.
+
+2017-06-08
+-FTFA now working in the LIVE TV section
+-Silent hunter (In Skynet) Currently down till further notice
+-HBO GOT Live links Available in MIC Special links and events
+
+For the Latest Info Click on "Sonus Info" in the Programs sub menu
+
 Thanks for Choosing Sonus Tv!
 
 
