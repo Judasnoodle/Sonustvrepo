@@ -1,10 +1,10 @@
-20
+21
 ||| 
-Latest Sonus tv Update: 2017-08-04 (If you havent updated on this date or after the MOVIE main search links will not work)
--Movies Main Link section Updated, search functions all working.
+Latest Sonus tv Update: 2017-08-04 
+If you havent updated on this date or after, the MOVIE main search links will not work
 
 2017-06-08
--FTFA now working in the LIVE TV section
+-FTFA now working in the LIVE TV section 
 -Silent hunter (In Skynet) Currently down till further notice
 -HBO GOT Live links Available in MIC Special links and events
 
