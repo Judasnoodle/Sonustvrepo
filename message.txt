@@ -1,9 +1,10 @@
-22
+23
 ||| 
-Latest Sonus tv Update: 2017-08-04 
-If you havent updated on this date or after, the MOVIE main search links will not work
-
-2017-08-07
+Latest Sonus tv Update: 2017-08-09 
+-Added Enigma live Tv
+-Phoenix(new) in extras section 
+-updated Bob to Bob unleashed
+2017-08-09
 -FTFA now working in the LIVE TV section 
 -Silent hunter (In Skynet) Currently down till further notice
 
