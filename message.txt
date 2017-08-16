@@ -1,11 +1,11 @@
-26
+27
 ||| 
 Latest Sonus tv Update: 2017-08-13 
 -Added World IPTV and World Sports (Decent live HD Channel feeds)
 -removed pair streams from covenant
 -Added Stream account to Covenant to increase HD streams
-Unless something major happens this will be the last update for a while
 
+GOT Season 7 ep 6 Available in regular TV search (Just click on Ep 6 (In red) Suggest latest update to get HD links
 Latest Movie HD releases 
 "Baywatch" available in New releases>Skynet>Mavericktv>New releases2017 
 "Goon 2" available in the regular movie search
