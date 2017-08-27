@@ -1,11 +1,11 @@
-28
+29
 ||| 
 Latest Sonus tv Update: 2017-08-13 
--Added World IPTV and World Sports (Decent live HD Channel feeds)
--removed pair streams from covenant
+
 -Added Stream account to Covenant to increase HD streams
 
-Latest Movie HD releases 
+Latest Movie HD releases (2017-08-27)
+"The Hitmans Bodyguard" New releases>New releases>Unleashed
 "Captain underpants" Kidzone (New releases)
 "All eyez On Me"
 "Baywatch" available in New releases 
