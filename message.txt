@@ -1,11 +1,11 @@
-32
+33
 ||| 
-Latest Sonus tv Update: 2017-08-28 
+[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-08-28[/COLOR][/B] 
 -Added stream account to Boxsets
 -Added new source to new releases
 -General Cleanup
 
-Latest Movie HD releases (2017-08-27)
+[B][COLOR white]Latest Movie HD releases (2017-08-27)[/COLOR][/B]
 "Wonder Woman" (New releases)
 "The Mummy"(New Releases)
 "The Hitmans Bodyguard" (New releases)
