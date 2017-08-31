@@ -1,6 +1,6 @@
 33
 ||| 
-[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-08-28[/COLOR][/B] 
+[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-08-30[/COLOR][/B] 
 -Added stream account to Boxsets
 -Added new source to new releases
 -General Cleanup
