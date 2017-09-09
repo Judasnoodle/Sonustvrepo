@@ -1,10 +1,10 @@
-40
+41
 ||| 
 [B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-09-09[/COLOR][/B] 
 -Added New Kidzone source ( Click On Kidzone to access )
 -Added PPV/Live Events ( Will have a list of sources where PPV Links will Show up )
 -Added Sports central ( Has lots of Live sports feeds from MIC )
--Fixed the Music section ( Added Quick Widget music list  )*At this time the music List will not work (you will get an error)
+-Fixed the Music section 
 [B][COLOR white]Latest Movie HD releases:[/COLOR][/B] [B][COLOR red]2017-09-06[/COLOR][/B]
 "Transformers: The Last Knight (New Releases)
 "Pirates Of The Caribbean: Dead Men Tell No Tales (New Releases)
