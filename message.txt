@@ -1,16 +1,14 @@
-44
+45
 ||| 
-[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-09-11[/COLOR][/B] 
--Added New Menu Item Game day ( Has links for NFL,NBA and NHL)
--Fixed Youtube API Error
--Added New Sports Sources
--Added PPV/Live Events ( Will have a list of sources where PPV Links will Show up )
--Added Sports central ( Has lots of Live sports feeds from MIC )
-[B][COLOR white]Latest Movie HD releases:[/COLOR][/B] [B][COLOR red]2017-09-12[/COLOR][/B]
-"Baby Driver" (New Releases)
-"Transformers: The Last Knight (New Releases)
-"Pirates Of The Caribbean: Dead Men Tell No Tales (New Releases)
-For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
+[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] 
+
+[B][COLOR red]URGENT[/COLOR][/B] 
+
+2017-09-14
+[B][COLOR white]PLEASE DO NOT UPDATE AT THIS TIME, there is an Issue with the Hoster that supplys the update, you will get an Error![/COLOR][/B] 
+
+YOU WILL GET A NOTIFICATION WHEN ITS OK TO UPDATE!
+
 
 
 
