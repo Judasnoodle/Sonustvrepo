@@ -1,9 +1,9 @@
-50
+51
 ||| 
 [B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-09-16[/COLOR][/B]  
 Added New Menu Item Game day ( Has links for NFL,NBA and NHL)
 	-Added Replays to Game Day
-	-Added Uraeus Movies (Excellent Movie Source)
+	-Added Uraeus Movies [B][COLOR red]Currently Down untill further notice[/COLOR][/B]
 	-Added New Sports Sources
 	-Added PPV/Live Events ( Will have a list of sources where PPV Links will Show up )
 	-Added Sports central ( Has lots of Live sports feeds from MIC )
