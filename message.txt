@@ -1,14 +1,14 @@
 52
 ||| 
-[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-09-16[/COLOR][/B]  
+[B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-09-16[/COLOR][/B] 
+
+[B][COLOR red]2017-09-22[/COLOR][/B]
+A new Auto update will come through, To Access Tv Shows click on TV Shows>Arrow at top of screen>Leviticus To Access
+
+[B][COLOR red]2017-09-16[/COLOR][/B]
 Added New Menu Item Game day ( Has links for NFL,NBA and NHL)
 	-Added Replays to Game Day
 	-Added Uraeus Movies [B][COLOR red]Currently Down untill further notice[/COLOR][/B]
-	-Added New Sports Sources
-	-Added PPV/Live Events ( Will have a list of sources where PPV Links will Show up )
-	-Added Sports central ( Has lots of Live sports feeds from MIC )
-	[B][COLOR white]Latest Movie HD releases:[/COLOR][/B] [B][COLOR red]2017-09-14[/COLOR][/B]
-        "Annabelle Creation" (New Releases)
 	
 	For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
