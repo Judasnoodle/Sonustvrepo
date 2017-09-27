@@ -1,14 +1,13 @@
-54
+55
 ||| 
 [B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-09-23[/COLOR][/B] 
-
-[B][COLOR white]NEW UPDATE AVAILABLE[/COLOR][/B] Sonus TV is the only place to find Live CHL Streams!
-
+Sonus TV is the only place to find Live CHL Streams!
 [B][COLOR red]2017-09-23[/COLOR][/B]
 Added New Menu Item Hockey ( Has links for NHL,Qmjhl,ohl,and more!)
 	-Fixed Tv Shows Section
 	-Added Movies playlist to Movies section
-	
+[B][COLOR red]2017-09-27[/COLOR][/B]
+[B][COLOR white]New Shipment of X92 Boxes ($160) X96mini ($80) and Blutooth gamepads ($20)		
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
 
