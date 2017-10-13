@@ -1,12 +1,12 @@
-60
+61
 ||| 
 [B][COLOR white]Latest Sonus tv Update:[/COLOR][/B] [B][COLOR red]2017-10-12[/COLOR][/B] 
 [B][COLOR red]2017-10-12[/COLOR][/B]
 -Fixed CHL Section (For now, may go down in the near Future)
 -Changed Movie playlists sub section ( Includes 80s classics, westerns, Hallmark movies and much more!)
 -Added more Fitness sources
--General cleanup and Link Fixes
-[B][COLOR white]Latest HD Releases[/COLOR][/B][B][COLOR red]2017-10-10[/COLOR][/B]
+[B][COLOR white]Latest HD Releases[/COLOR][/B][B][COLOR red]2017-10-12[/COLOR][/B]
+              American Made ( New Releases )
               Lego Ninjago Movie ( New Releases )
               War For The Planet Of The Apes ( New Releases )
               Spiderman : Homecoming ( New Releases )
