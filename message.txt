@@ -1,12 +1,17 @@
 75
 ||| 
-[B][COLOR orange]HAPPY HALLOWEEN![/COLOR][/B]
-[B][COLOR red]2017-10-31[/COLOR][/B]
-[B][COLOR red]PLEASE DO NOT UPDATE THE SONUS 17.1 APP (Sonus 4.4 Is ok to update) AS THE SERVER IS DOWN > WILL POST WHEN NEW UPDATE IS AVAILABLE[/COLOR][/B]
-[B][COLOR red]IF YOU WOULD LIKE TO DO AN UPDATE OR NEED TO UPDATE CONTACT AT SONUSBUILD@GMAIL.COM OR VISIT THE CLOSED SUPPORT GROUP FOR INFO ON HOW TO[/COLOR][/B]
+[B][COLOR white]Latest Update[/COLOR][/B][B][COLOR red]2017-10-31[/COLOR][/B]
+Updates are good to go For Sonus 17.1 and Sonus 4.4!
+[B][COLOR white]Update Changelog[/COLOR][/B]
+-Added Strictly HD
+-Removed Hallows Eve
+-Added more Options for Xtra tv And Movies
+-Fixed Covenant No Streams available
+-Added more selection to Movie playlists
+-Added Triton Tv
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
-[B][COLOR white]Covenant no streams Fix[/COLOR][/B] Click EXTRAS then Highlight Covenant>press c or menu on your remote >click settings>playback>change from Dialogue to Directory
+
 
 
 
