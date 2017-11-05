@@ -1,14 +1,12 @@
-76
+77
 ||| 
-[B][COLOR white]Latest Update[/COLOR][/B][B][COLOR red]2017-10-31[/COLOR][/B]
+[B][COLOR white]Latest Update[/COLOR][/B][B][COLOR red]2017-11-04[/COLOR][/B]
 Updates are good to go For Sonus 17.1 and Sonus 4.4!
-[B][COLOR white]Update Changelog[/COLOR][/B]
+[B][COLOR white]UFC 217 go to PPV/Live events [/COLOR][/B]
 -Added Strictly HD
--Removed Hallows Eve
 -Added more Options for Xtra tv And Movies
 -Fixed Covenant No Streams available
 -Added more selection to Movie playlists
--Added Triton Tv
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
 
