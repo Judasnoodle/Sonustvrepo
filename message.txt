@@ -1,13 +1,14 @@
-79
+80
 ||| 
-[B][COLOR white]Latest Update[/COLOR][/B][B][COLOR red]2017-11-03[/COLOR][/B]
+[B][COLOR white]Latest Update[/COLOR][/B][B][COLOR red]2017-11-13[/COLOR][/B]
 Updates are good to go For Sonus 17.1 and Sonus 4.4!
-[B][COLOR red]2017-11-05[/COLOR][/B]
- ***[B][COLOR white]ALTERNATIVE NHL STREAMS (WHERE TO WATCH)[/COLOR][/B]*** 
-Live TV > Mobdro > Sports ( Choose Sports network Game is airing )
-Extras Sub Menu> Bennu >Bennu Live> Sports Events Server 1
-Sports Sub Menu > Sports Central
-Sports ( Main Menu Item ) >Live sports ( Pick from the many web Sites available )
+[B][COLOR red]2017-11-13[/COLOR][/B]
+ ***[B][COLOR white]Update Changelog[/COLOR][/B]*** 
+-Updated Kidzone
+-Updated Stricktly HD
+-Elysium update (More HD streams should be available)
+-Triton Update(More HD streams should be available)
+If Covenant Isnt working well for you use Triton or Elysium !
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
 
