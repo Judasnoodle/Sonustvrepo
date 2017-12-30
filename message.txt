@@ -1,12 +1,16 @@
-85
+86
 ||| 
-[B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2017-12-16[/COLOR][/B]
+[B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2017-12-30[/COLOR][/B]
 
-If your current setup isnt causing you issues there is no need to update. If you decide to update check out the all new Sonus Movies and Tv. Remember If you update you will lose all changes you have made and accounts. If you decide to update check out Neptune Rising and Sports Hub. Sports Hub is brand new and exactly like Pro sports was, but is now being updated!
+If your current setup isnt causing you issues there is no need to update to the new version. If you decide to update you will lose all changes you have made and any accounts you have added. If your want to update and are unsure how you can contact Sonus on the Facebook page or Email Sonusbuild@gmail.com
+**Changelog**
+-Removed Christmas section
+-Updated Sonus Addon to ver 1.3
+-Added all new Source for streaming Movies and TV Shows
+-Added Netstreams for More live sports options
+-Cleaned up background Code
 
-This will be the last update untill after the Christmas Holidays
-
-[B][COLOR red]Merry Christmas![/COLOR][/B]
+[B][COLOR red]Happy New Year![/COLOR][/B]
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
 
