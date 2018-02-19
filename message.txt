@@ -1,9 +1,9 @@
-96
+97
 ||| 
 [B][COLOR white]Sonus Media Centre Update!Highly suggest everyone updates![/COLOR][/B]
 [B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2018-02-18[/COLOR][/B]
 -Fixed Youtube error
--Added Incursion (New Movie Tv Show source)
+-Added Incursion (similar to Placenta, use as backup)
 -Added Nicktoons (Free live tv/Sports)
 -Fixed Some background Issues for Auto updates
 -CLick on LIVE TV in Main menu Will now open Sonus IPTV Directly If you have an account Set up
