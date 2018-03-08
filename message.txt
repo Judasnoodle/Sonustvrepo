@@ -1,12 +1,11 @@
-97
+98
 ||| 
-[B][COLOR white]Sonus Media Centre Update!Highly suggest everyone updates![/COLOR][/B]
-[B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2018-02-18[/COLOR][/B]
--Fixed Youtube error
--Added Incursion (similar to Placenta, use as backup)
--Added Nicktoons (Free live tv/Sports)
--Fixed Some background Issues for Auto updates
--CLick on LIVE TV in Main menu Will now open Sonus IPTV Directly If you have an account Set up
+[B][COLOR white]Sonus Media Centre Update Available![/COLOR][/B]
+[B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2018-03-08[/COLOR][/B]
+-Fixed Rising Tides
+-Added Pure sports
+-Updated Sonus Media to version 1.4
+-Added Movie Night ( A selection of Movies that change every week )
 [B][COLOR white]All New SONUS IPTV Service Available[/COLOR][/B]
 -24 hour Trails Available(email sonusbuild@gmail.com for more info)
 -Thousands of Channels available(Sports,Movies,VOD,Music,PPV and more!)
