@@ -1,7 +1,8 @@
-98
+99
 ||| 
 [B][COLOR white]Sonus Media Centre Update Available![/COLOR][/B]
 [B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2018-03-08[/COLOR][/B]
+-Removed related content to MADE In Canada (Added new Sources)
 -Fixed Rising Tides
 -Added Pure sports
 -Updated Sonus Media to version 1.4
