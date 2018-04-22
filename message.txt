@@ -1,16 +1,16 @@
-100
+101
 ||| 
-[B][COLOR white]Sonus Media Centre Update Available![/COLOR][/B]
-[B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2018-03-30[/COLOR][/B]
--Fixed Dependancy Issues
--Fixed Universal Scrapers
--Added Pure sports
--Updated Sonus Media to version 1.4
--Added Movie Night ( A selection of Movies that change every week )
+[B][COLOR white]Sonus Media Centre Update Available!2018-04-22[/COLOR][/B]
+[B][COLOR white]Latest Update[/COLOR][/B] [B][COLOR red]2018-04-22[/COLOR][/B]
+-Removed dead or non working addons
+-Added 24/7 music videos and radio to the music sub menu
+-Click on live tv and will open the Sonus IPTV app
+-Added Special Events to the Live Tv sub menu
+
 [B][COLOR white]All New SONUS IPTV Service Available[/COLOR][/B]
--24 hour Trails Available(email sonusbuild@gmail.com for more info)
+-24 hour Trials Available(email sonusbuild@gmail.com for more info)
 -Thousands of Channels available(Sports,Movies,VOD,Music,PPV and more!)
--Excellent Quality Streams!
+-Excellent HD Quality Streams!
 
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
