@@ -1,13 +1,14 @@
-102
+103
 ||| 
-[B][COLOR white]GO TO WWW.SONUSIPTV.COM AND SIGN UP FOR YOUR FREE TRIAL![/COLOR][/B]
-
--1500+ Live Channels
--All Sports networks
--VOD
--PPV
-
--Excellent HD Quality Streams!
+[B][COLOR white]NEW SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-05-12[/COLOR][/B]
+-Removed Dead Addons
+-Added sources for Gameday
+-Added sportsmatrix
+-Fixed youtube errors
+-Added Authorize RD (Simple way to add your RD Account)
+-Fixed Music section
+-Added Live concerts
+-General Cleanup
 
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
