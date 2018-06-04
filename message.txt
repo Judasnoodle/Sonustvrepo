@@ -1,14 +1,14 @@
-103
+104
 ||| 
-[B][COLOR white]NEW SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-05-12[/COLOR][/B]
+[B][COLOR white]LATEST SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-06-04[/COLOR][/B]
+
+This Update is Not nessesary if everything works well for you, If you havent updated in a while its recommended
+
 -Removed Dead Addons
--Added sources for Gameday
--Added sportsmatrix
--Fixed youtube errors
--Added Authorize RD (Simple way to add your RD Account)
--Fixed Music section
--Added Live concerts
--General Cleanup
+-Added new Music Source (Click On "MUSIC" In the main menu)
+-Fixed WOD
+-Background update added (Should help with free links not working)
+
 
 For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
