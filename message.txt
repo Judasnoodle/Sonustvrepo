@@ -1,12 +1,15 @@
-104
+105
 ||| 
-[B][COLOR white]LATEST SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-06-04[/COLOR][/B]
+[B][COLOR white]LATEST SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-06-15[/COLOR][/B]
 
 This Update is Not nessesary if everything works well for you, If you havent updated in a while its recommended
 
--Removed Dead Addons
--Added new Music Source (Click On "MUSIC" In the main menu)
--Fixed WOD
+-Removed Gameday Section
+-Removed PPV Section
+-Removed Some Live tv and sports sections
+-Added New movie/tv sources
+-Added Real Debrid 4k Movie Section
+-Now streamlined for just basic Movies and tv streaming
 -Background update added (Should help with free links not working)
 
 
