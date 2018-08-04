@@ -1,19 +1,18 @@
-105
+106
 ||| 
-[B][COLOR white]LATEST SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-06-15[/COLOR][/B]
+[B][COLOR white]LATEST SONUS MEDIA UPDATE![/COLOR][/B][B][COLOR red]2018-08-04[/COLOR][/B]
 
 This Update is Not nessesary if everything works well for you, If you havent updated in a while its recommended
-
--Removed Gameday Section
--Removed PPV Section
+-Removed Dead Addons
 -Removed Some Live tv and sports sections
--Added New movie/tv sources
 -Added Real Debrid 4k Movie Section
 -Now streamlined for just basic Movies and tv streaming
 -Background update added (Should help with free links not working)
 
+Try out our Live TV Service! 24 hour Trials Available Monday through Friday contact @ www.sonusiptv.com
 
-For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
+
+For more Info Email [B][COLOR white]Sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusIPTV[/COLOR][/B]
 
 
 
